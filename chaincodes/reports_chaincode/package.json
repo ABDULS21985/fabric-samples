@@ -1,0 +1,17 @@
+{
+  "name": "reports_chaincode",
+  "version": "1.0.0",
+  "main": "reportsContract.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.7",
+    "fabric-shim": "^2.5.7"
+  }
+}
