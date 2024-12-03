@@ -66,3 +66,4 @@ CONTAINER_CLI=podman ./network.sh up
 As there is no Docker-Daemon when using podman, only the `./network.sh deployCCAAS` command will work. Following the Chaincode-as-a-service Tutorial above should work. 
 
 
+# numa-chaincode-minting_new
